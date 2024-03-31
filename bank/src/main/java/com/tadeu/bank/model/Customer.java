@@ -1,4 +1,6 @@
-package com.tadeu.bank;
+package com.tadeu.bank.model;
+
+import com.tadeu.bank.Account;
 
 import java.util.Date;
 

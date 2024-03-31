@@ -1,4 +1,4 @@
-package com.tadeu.bank;
+package com.tadeu.bank.model;
 
 import java.util.ArrayList;
 import java.util.List;

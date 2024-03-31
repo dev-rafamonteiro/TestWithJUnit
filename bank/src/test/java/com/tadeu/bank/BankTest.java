@@ -1,5 +1,7 @@
 package com.tadeu.bank;
 
+import com.tadeu.bank.model.Bank;
+import com.tadeu.bank.model.Customer;
 import org.junit.Test;
 
 import java.util.List;
